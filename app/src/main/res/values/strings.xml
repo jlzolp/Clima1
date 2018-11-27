@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Clima</string>
+
+    // pantala principal
+    <string name="texto_grados0">23°</string>
+    <string name="texto_cuidad">Cuidadd de Mexico</string>
+    <string name="texto_estatus">Nublado</string>
+
+    <string name="texto_bienvenidad">
+        Bienvenido a mi app delclima, para poder ver el clima de una cuidad selecciona la opcion
+        de abajo.
+    </string>
+    <string name="texto_boton_mexico">
+        Clima de la Cuidad Juarez
+    </string>
+    <string name="texto_boton_berlin">
+        Clima de la Pueblo Yaqui
+    </string>
+</resources>
